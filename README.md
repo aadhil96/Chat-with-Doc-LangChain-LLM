@@ -2,6 +2,11 @@
 
 This project is a **Conversational Document Q&A** application using **Streamlit** and **LLAMA 3.1**. Users can upload a PDF, and the system will allow them to ask questions based on the content of the document. It uses **Groq’s LLAMA 3.1 model** for natural language understanding and **FAISS** for document search via vector embeddings. The application also maintains a chat history for a conversational experience.
 
+## Screenshot 
+
+![screenshot](https://github.com/aadhil96/Chat-with-Doc-LangChain-LLM/blob/d4fa1c4ed7b7edfc591345feaed10f587f185d46/screenshot.JPG)
+
+
 ## Features
 
 - **PDF Upload**: Users can upload PDF documents for processing.
